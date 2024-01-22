@@ -8,5 +8,7 @@ Xinyue Feng
 Charmaine Suah @Csuah09 zx23187@bristol.ac.uk 
 
 Jamie Bell-Thomas
+ws19177@bristol.ac.uk
+jamiebellthomas
 
 Hsuan Lin HsuanLin322 ev23671@bristol.ac.uk

@@ -4,7 +4,7 @@ just for software engineering
 Xinyue Feng
 
 Charmaine Sua
-sjs
+
 Jamie Bell-Thomas
 
 Hsuan Lin

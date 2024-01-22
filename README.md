@@ -3,7 +3,7 @@ just for software engineering
 
 Weijian Li 13822124279@163.com me23202@bristol.ac.uk
 
-Xinyue Feng fxy13030305896@163.com qg23773@bristol.ac.uk
+Xinyue Feng, qg23773@bristol.ac.uk, XinyueFeng99 
 
 Charmaine Suah @Csuah09 zx23187@bristol.ac.uk 
 

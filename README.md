@@ -1,7 +1,7 @@
 # UOB-software-group19
 just for software engineering
 
-Weijian Li 13822124279@163.com me23202@bristol.ac.uk
+Weijian Li（owner） 13822124279@163.com me23202@bristol.ac.uk
 
 Xinyue Feng, qg23773@bristol.ac.uk, XinyueFeng99 
 

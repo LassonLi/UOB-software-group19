@@ -3,7 +3,7 @@ just for software engineering
 
 Weijian Li ,  me23202@bristol.ac.uk , LassonLi
 
-Xinyue Feng , qg23773@bristol.ac.uk, XinyueFeng99 
+Xinyue Feng , qg23773@bristol.ac.uk , XinyueFeng99 
 
 Charmaine Suah , zx23187@bristol.ac.uk , Csuah09
 

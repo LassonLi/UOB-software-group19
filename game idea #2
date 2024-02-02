@@ -1,0 +1,22 @@
+Game idea : [Survivor.io]
+
+There will be a character that the player will control. 
+At each level of the game, waves of zombies will surround and be centred towards the player.
+At different levels of difficulty, the zombies will become increasingly harder to kill. 
+The player will be able to move around the map, collecting gems to upgrade their weaponry or health items. 
+To demarcate the end of one level, there will be a larger wave of zombies, to pass the level, the player will need to survive a time frame.
+The interface should show :
+
+1. the player 
+2. health bar 
+3. the level of the game 
+4. bar to show the amount of gems needed before next upgrade
+
+twist: 
+we will have our own types of zombies and there will be less gems needed to collect, however they would be of a higher impact. 
+
+difficulty:
+1. creating different maps that allows for the player to interact with and keeps the player within bounds of the game 
+2. getting the zombies to follow the player despite the player being able to move freely 
+3. the angle of the weaponry, how close the zombies has to be to be kill , where should the weapon hit the zombie to kill it 
+4. how can the player collect the different gems automatically
